@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Manager",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "GALAXZSMP-prince.aternos.me:13785",
+    "ip": "GALAXZSMP-prince.aternos.me",
     "port": 13785,
-    "version": "26.45",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
