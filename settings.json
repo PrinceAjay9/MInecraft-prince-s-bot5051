@@ -5,11 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "GALAXZSMP-prince.aternos.me",
-    "port": 13785,
+  "server""GALAXZSMP.aternos.me",
+    "port": 64537,
     "version": "1.20.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
